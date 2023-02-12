@@ -1,0 +1,20 @@
+body {
+    background-image:url("./flyer\ de\ menu\ de\ san\ valentin\ \(1\)\ \(1\).jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+footer {
+    position:absolute;
+    bottom: -2000px;
+    margin-left: 780px;
+}
+
+
+@media (max-width: 425px) {
+footer{
+    position: absolute;
+    bottom: 882px;
+margin-right: 800px;
+}
+}
